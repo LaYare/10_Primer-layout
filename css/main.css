@@ -1,0 +1,92 @@
+.margin-inf{
+	margin-bottom: 5%;
+	color: #000000;
+}
+.margin-sup{
+	margin-top: 5%;
+	color: #000000;
+}
+li{
+	list-style: none;
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}
+p{
+	font-size: 30px;
+	font-family: Arial, Verdana;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+.margin{
+	margin: 0px 10px;
+}
+.display{
+	display: inline-block;
+}
+.cobertor{
+	margin: 0 100px 0 100px;
+}
+.p{
+	position: relative;
+	text-align: right;
+	top: -25px;
+	color: white;
+	right: 15px;
+	bottom: -100px;
+	font-size: 20px;
+}
+.h1{
+	position: relative;
+	text-align: left;
+	left: 100px;
+	margin-bottom: 30px;
+}
+.alumna{
+	display: inline-block;
+	position: relative;
+}
+.textos{
+	margin: 20px;
+}
+.rect{
+	height: 45px;
+	background-color: grey;
+	margin: 15px;
+	display: block;	
+}
+.hab2{
+	width: 400px;
+}
+
+.hab3{
+	width: 150px;
+}
+
+.circulo{
+	border-radius:100% 
+}
+
+.barras{
+	color: white;
+	font-size: 16px;
+	padding: 15px;
+	text-align: left;
+}
+
+.retro{
+	width: 200px;
+	height: 150px;
+}
+
+.borderg{
+	border: 2px solid black;
+}
+ul>li{
+	border-right: 1px solid black;
+}
+
+
+
